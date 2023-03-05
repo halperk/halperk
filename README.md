@@ -1,8 +1,10 @@
-### Hi there 👋 I'm Alper!
+# Hi there 👋 I'm Alper!
 
+#### Computer Science + Business Studies Student
 
+I love problem solving, and contributing to my environment with interdiciplinary approaches. My main focuses on computer science and engineering are software and product development on the web, and mobile. I have experience in React.JS and Node.JS, but also in HTML, CSS, and JavaScript for a long time. In addition, I have experience in database systems, MongoDB and MySQL. I have experience in C/C++ programming languages and advanced data structures. I am also worked on data science and Python programming language for machine learning, computer vision, and natural language processing fields. Let's build a great future for all of us together!
 
-<h2 align="left">Technologies:</h2>
+## Technologies:
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
