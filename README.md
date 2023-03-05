@@ -4,6 +4,18 @@
 
 I love problem solving, and contributing to my environment with interdiciplinary approaches. My main focuses on computer science and engineering are software and product development on the web, and mobile. I have experience in React.JS and Node.JS, but also in HTML, CSS, and JavaScript for a long time. In addition, I have experience in database systems, MongoDB and MySQL. I have experience in C/C++ programming languages and advanced data structures. I am also worked on data science and Python programming language for machine learning, computer vision, and natural language processing fields. Let's build a great future for all of us together!
 
+
+## Social Media:
+<p align="left">
+  <a href="https://www.linkedin.com/in/halperk" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" width="35" height="35" alt="LinkedIn"/>&nbsp</a>
+  <a href="https://www.twitter.com/huseyinalperk" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" width="35" height="35" alt="Twitter"/>&nbsp</a>
+  <a href="https://www.youtube.com/@huseyinalperk" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/youtube.svg" width="35" height="35" alt="YouTube"/> </a>
+</p>
+
+<p align="left">
+  <a>➡ Visit My </a><a href="https://www.halperk.net" target="_blank" rel="noreferrer">Personal Website</a><a>!</a>
+</p>
+
 ## Technologies:
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
