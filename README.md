@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Alper!
 
-#### Junior Computer Science & Engineering + Business Studies student from Turkey
+#### Junior 💻 Computer Science & Engineering + 👔 Business Studies student from Turkey
 
-I love problem solving, and contributing to my environment with interdiciplinary approaches. I have a strong background in data structures and object-oriented programming. I'm a junior student with a passion for software engineering and a deep interest in cutting-edge technologies in mobile app development, ML/AI, and data science. Also, I'm an exchange student at **Vrije Universiteit Amsterdam** in the Netherlands right now, where I'm broadening my academic horizons and gaining exposure to new cultures.
+I love problem solving, and contributing to my environment with interdiciplinary approaches. I have a strong background in data structures and object-oriented programming. I'm a junior student with a passion in **Software Engineering** and a deep interest in cutting-edge technologies in **Mobile Development**, **Machine Learning**, and **Data Science**. Also, I'm an exchange student at **Vrije Universiteit Amsterdam** in the Netherlands right now, where I'm broadening my academic horizons and gaining exposure to new cultures.
 
-With a curious mind and a desire to learn, I'm constantly working on exciting new projects and expanding my skillset. Whether it's building software solutions or experimenting with new technologies, I always strive to push the boundaries of what's possible and deliver high-quality work. Let's build a great future for all of us together!
+With a curious mind and a desire to learn, I'm constantly working on exciting new projects and expanding my skillset. Whether it's building software solutions or experimenting with new technologies, I always strive to push the boundaries of what's possible and deliver high-quality work. 🍀 Let's build a great future for all of us together! 🕊️
 
-## 💻 Projects:
+## 🚀 Projects:
 - Referee Management and Evaluation System
 - SugarZ: Diabetes Application
 - Virtual Banker
@@ -20,7 +20,7 @@ With a curious mind and a desire to learn, I'm constantly working on exciting ne
   I'm always interested in hearing about new opportunities, projects, and challenges. Whether you want to discuss a potential collaboration, have a question about one of my projects, or just want to say hello, feel free to reach out to me. You can connect with me on <a href="https://www.linkedin.com/in/halperk/">LinkedIn</a> or contact me at <a href="mailto:halperkk@gmail.com">halperkk@gmail.com</a>. Don't forget to check out my personal website at <a href="https://www.halperk.net/">halperk.net</a> for more information about my projects and experiences.
 </p>
 
-## 🚀 Technologies:
+## ⚙️ Technologies:
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
