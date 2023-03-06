@@ -1,22 +1,26 @@
 # Hi there 👋 I'm Alper!
 
-#### Computer Science + Business Studies Student
+#### Junior Computer Science & Engineering + Business Studies student from Turkey
 
-I love problem solving, and contributing to my environment with interdiciplinary approaches. My main focuses on computer science and engineering are software and product development on the web, and mobile. I have experience in React.JS and Node.JS, but also in HTML, CSS, and JavaScript for a long time. In addition, I have experience in database systems, MongoDB and MySQL. I have experience in C/C++ programming languages and advanced data structures. I am also worked on data science and Python programming language for machine learning, computer vision, and natural language processing fields. Let's build a great future for all of us together!
+I love problem solving, and contributing to my environment with interdiciplinary approaches. I have a strong background in data structures and object-oriented programming. I'm a junior student with a passion for software engineering and a deep interest in cutting-edge technologies in mobile app development, ML/AI, and data science. Also, I'm an exchange student at **Vrije Universiteit Amsterdam** in the Netherlands right now, where I'm broadening my academic horizons and gaining exposure to new cultures.
 
+With a curious mind and a desire to learn, I'm constantly working on exciting new projects and expanding my skillset. Whether it's building software solutions or experimenting with new technologies, I always strive to push the boundaries of what's possible and deliver high-quality work. Let's build a great future for all of us together!
 
-## Social Media:
+## 💻 Projects:
+- Referee Management and Evaluation System
+- SugarZ: Diabetes Application
+- Virtual Banker
+- SUAnalytics
+- Twitter Bot Detector
+- Heart Disease Risk
+- Zospital Database Project
+
+## 📫 Contact Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/halperk" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" width="35" height="35" alt="LinkedIn"/>&nbsp</a>
-  <a href="https://www.twitter.com/huseyinalperk" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/twitter.svg" width="35" height="35" alt="Twitter"/>&nbsp</a>
-  <a href="https://www.youtube.com/@huseyinalperk" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/youtube.svg" width="35" height="35" alt="YouTube"/> </a>
+  I'm always interested in hearing about new opportunities, projects, and challenges. Whether you want to discuss a potential collaboration, have a question about one of my projects, or just want to say hello, feel free to reach out to me. You can connect with me on <a href="https://www.linkedin.com/in/halperk/">LinkedIn</a> or contact me at <a href="mailto:halperkk@gmail.com">halperkk@gmail.com</a>. Don't forget to check out my personal website at <a href="https://www.halperk.net/">halperk.net</a> for more information about my projects and experiences.
 </p>
 
-<p align="left">
-  <a>➡ Visit My </a><a href="https://www.halperk.net" target="_blank" rel="noreferrer">Personal Website</a><a>!</a>
-</p>
-
-## Technologies:
+## 🚀 Technologies:
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
