@@ -7,18 +7,16 @@ I love problem solving, and contributing to my environment with interdiciplinary
 With a curious mind and a desire to learn, I'm constantly working on exciting new projects and expanding my skillset. Whether it's building software solutions or experimenting with new technologies, I always strive to push the boundaries of what's possible and deliver high-quality work. 🍀 Let's build a great future for all of us together! 🕊️
 
 ## 🚀 Projects:
-- Referee Management and Evaluation System
-- SugarZ: Diabetes Application
-- Virtual Banker
-- SUAnalytics
-- Twitter Bot Detector
-- Heart Disease Risk
-- Zospital Database Project
+- **REFMES - Referee Management and Evaluation System:** A web application that lets fans rate referees in Turkish Super League matches, increasing fairness and prestige. Built with **React.JS**, **Node.JS**, **Express.JS**, and **MongoDB** using Agile principles. I was a full-stack developer and the team lead. Live on <a href="https://www.refmes.org/">refmes.org</a>.
+
+- **SugarZ - Diabetes App & Modern Blood Sugar Monitor:** A mobile app that simplifies diabetes management with visual graphs and PDF creation for physicians. Developed with **Java**, **XML**, and **SQLite**. Published on <a href="https://play.google.com/store/apps/details?id=com.huseyinalper.sugarz">Google Play Store</a> and Huawei AppGallery. I was the product manager and software developer.
+
+- **SUAnalytics - Sabanci University Analytics:** A web project that analyzes course and instructor data of Sabanci University with visualizations and analysis publications. Built with **HTML**, **CSS**, and **JavaScript**.
+
+- **Zospital Istanbul - Database Project:** A database application project for hospital management using **MySQL** and **PHP**. It features a complex database structure with advanced joint queries. Check out the <a href="https://github.com/halperk/Zospital-Istanbul-Database-Project/">project page</a> for more details.
 
 ## 📫 Contact Me:
-<p align="left">
-  I'm always interested in hearing about new opportunities, projects, and challenges. Whether you want to discuss a potential collaboration, have a question about one of my projects, or just want to say hello, feel free to reach out to me. You can connect with me on <a href="https://www.linkedin.com/in/halperk/">LinkedIn</a> or contact me at <a href="mailto:halperkk@gmail.com">halperkk@gmail.com</a>. Don't forget to check out my personal website at <a href="https://www.halperk.net/">halperk.net</a> for more information about my projects and experiences.
-</p>
+  I'm always interested in hearing about new opportunities, projects, and challenges. Whether you want to discuss a potential collaboration, have a question about one of my projects, or just want to say hello, feel free to reach out to me. You can **connect** with me on <a href="https://www.linkedin.com/in/halperk/">LinkedIn</a> or contact me at <a href="mailto:halperkk@gmail.com">halperkk@gmail.com</a>. Don't forget to check out my personal website at <a href="https://www.halperk.net/">halperk.net</a> for more information about my projects and experiences.
 
 ## ⚙️ Technologies:
 <p align="left">
