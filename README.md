@@ -18,7 +18,7 @@ With a curious mind and a desire to learn, I'm constantly working on exciting ne
 - **Zospital Istanbul - Database Project:** A database application project for hospital management using **MySQL** and **PHP**. It features a complex database structure with advanced joint queries. Check out the <a href="https://github.com/halperk/Zospital-Istanbul-Database-Project/">project page</a> for more details.
 
 ## 📫 Contact Me:
-  I'm always interested in hearing about new opportunities, projects, and challenges. Whether you want to discuss a potential collaboration, have a question about one of my projects, or just want to say hello, feel free to reach out to me. You can **connect** with me on <a href="https://www.linkedin.com/in/halperk/">LinkedIn</a> or contact me at <a href="mailto:halperkk@gmail.com">halperkk@gmail.com</a>. Don't forget to check out my personal website at <a href="https://www.halperk.net/">halperk.net</a> for more information about my projects and experiences.
+  I'm always interested in hearing about new opportunities, projects, and challenges. Whether you want to discuss a potential collaboration, have a question about one of my projects, or just want to say hello, feel free to reach out to me. You can **connect** with me on <a href="https://www.linkedin.com/in/halperk/">LinkedIn</a> or contact me at <a href="mailto:alper.resume@gmail.com">alper.resume@gmail.com</a>. Don't forget to check out my personal website at <a href="https://www.halperk.net/">halperk.net</a> for more information about my projects and experiences.
 
 ## ⚙️ Technologies:
 <p align="left">
